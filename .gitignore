@@ -1,0 +1,4 @@
+./backend/node_modules/*  # Ignores all files in the backend's node_modules folder
+./frontend/node_modules/* # Ignores all files in the frontend's node_modules folder
+./backend/dist/*          # Ignores all files in the backend's dist folder
+./frontend/dist/*         # Ignores all files in the frontend's dist folder 
